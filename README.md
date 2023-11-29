@@ -77,3 +77,5 @@ Contributions to this package are welcome.
 The preferred method of contribution is through a GitHub pull request. 
 Feel also free to contact us by creating [**an issue**](https://github.com/Otoliths/S2miner/issues).
 
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/S2miner/count.svg)
